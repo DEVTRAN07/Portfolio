@@ -51,8 +51,8 @@ Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahka
 Hai, saya DEVTARN (username GitHub: `DEVTRAN07`).
 Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
 
-* **Email:** [mail:qt7457307@gmail.com](mail:qt7457307@gmail.com)
-* **Instagram (opsional):** @wuang07_
+* **Email:** [qt7457307@gmail.com](mail:qt7457307@gmail.com)
+* **Instagram:** @wuang07_
 
 ---
 
