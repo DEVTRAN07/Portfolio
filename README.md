@@ -1,4 +1,4 @@
-# Portofolio Web — [Faris Edrik P / rissss21]
+# Portfolio Web — DEVTRAN
 
 Selamat datang di portofolio web pribadi saya! 🌐  
 Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
@@ -22,8 +22,8 @@ Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya y
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/rissss21/portofolio.git
-cd portofolio
+git clone https://github.com/DEVTRAN07/portfolio.git
+cd portfolio
 ````
 
 2. Install dependencies:
@@ -44,19 +44,18 @@ npm run build
 ## &#x20;Quick Preview
 
 Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahkan link deploy di sini, misalnya:
-[🔗 Lihat versi live](https://username.github.io/portofolio/)
+[🔗 Lihat versi live](https://username.github.io/portfolio/)
 
 ## Tentang Saya
 
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
+Hai, saya DEVTARN (username GitHub: `DEVTRAN07`).
 Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
 
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
-* **Instagram (opsional):** @farisedrikprayoga
+* **Email:** [email\qt7457307@gmail.com](mail:qt7457307@gmail.com)
+* **Instagram (opsional):** @wuang07_
 
 ---
 
 
-[1]: https://github.com/rissss21/portofolio "GitHub - rissss21/portofolio"
-# PORTOFOLIO
+[1]: https://github.com/DEVTRAN07/portfolio "GitHub - DEVTRAN07/portfolio"
+# PORTFOLIO
